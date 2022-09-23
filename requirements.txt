@@ -1,0 +1,3 @@
+lightning
+torchvision
+jsonargparse[signatures]
